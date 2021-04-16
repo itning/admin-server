@@ -9,7 +9,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/itning/admin-server.svg)](https://github.com/itning/admin-server/commits)
 [![GitHub release](https://img.shields.io/github/release/itning/admin-server.svg)](https://github.com/itning/admin-server/releases)
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/itning/admin-server.svg)](https://github.com/itning/admin-server)
-[![HitCount](http://hits.dwyl.io/itning/admin-server.svg)](http://hits.dwyl.io/itning/admin-server)
+[![HitCount](http://hits.dwyl.com/itning/admin-server.svg)](http://hits.dwyl.com/itning/admin-server)
 [![language](https://img.shields.io/badge/language-JAVA-green.svg)](https://github.com/itning/admin-server)
 
 ADMIN_SERVER_USERNAME >> 用户名
